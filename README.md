@@ -85,10 +85,3 @@ two-tier-wordpress-mysql/
 ```
 
 ---
-
-## 🚀 Future Improvements
-
-* Add a `docker-compose.yml` for easier deployment
-* Use Docker volumes for persistent data storage
-* Add environment variable files (`.env`) for security
-* Deploy to cloud platforms (AWS, Azure, GCP)
